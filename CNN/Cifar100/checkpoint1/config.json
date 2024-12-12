@@ -1,0 +1,16 @@
+{
+    "checkpoint_id": 1,
+    "folder_path": "./CNN/Cifar100/checkpoint1/",
+    "kernel_size": 3,
+    "stride": 1,
+    "padding": 1,
+    "image_size": 32,
+    "out_channels": [
+        32,
+        64
+    ],
+    "num_classes": 100,
+    "batch_size": 256,
+    "num_epochs": 100,
+    "learning_rate": 0.001
+}

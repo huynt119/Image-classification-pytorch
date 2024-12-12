@@ -1,0 +1,16 @@
+{
+    "checkpoint_id": 1,
+    "folder_path": "./CNN/TinyImageNet/checkpoint1/",
+    "kernel_size": 5,
+    "stride": 1,
+    "padding": 2,
+    "image_size": 64,
+    "out_channels": [
+        32,
+        64
+    ],
+    "num_classes": 200,
+    "batch_size": 256,
+    "num_epochs": 100,
+    "learning_rate": 0.001
+}

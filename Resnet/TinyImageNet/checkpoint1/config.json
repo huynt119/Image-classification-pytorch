@@ -1,12 +1,13 @@
 {
     "checkpoint_id": 1,
     "folder_path": "./Resnet/TinyImageNet/checkpoint1/",
-    "kernel_size": 3,
+    "model": "Resnet34",
+    "kernel_size": 5,
     "stride": 1,
-    "padding": 1,
+    "padding": 2,
     "num_classes": 200,
-    "batch_size": 128,
-    "num_epochs": 50,
+    "batch_size": 256,
+    "num_epochs": 100,
     "learning_rate": 0.001,
-    "step_size": 25
+    "step_size": 50
 }

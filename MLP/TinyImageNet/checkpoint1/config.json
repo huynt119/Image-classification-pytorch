@@ -1,0 +1,15 @@
+{
+    "checkpoint_id": 1,
+    "folder_path": "./MLP/TinyImageNet/checkpoint1/",
+    "image_size": 64,
+    "num_layers": 3,
+    "hidden_channels": [
+        256,
+        512,
+        256
+    ],
+    "num_classes": 200,
+    "batch_size": 256,
+    "num_epochs": 100,
+    "learning_rate": 0.001
+}
